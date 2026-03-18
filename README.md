@@ -23,6 +23,7 @@ I am an Information Technology student with a strong interest in software develo
 - HTML  
 - CSS  
 - JavaScript (Basic)
+- React.js
 
 ### 🧠 Computer Science Fundamentals
 - Data Structures & Algorithms (Basic)
