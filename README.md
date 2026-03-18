@@ -17,12 +17,12 @@ I am an Information Technology student with a strong interest in software develo
 - C  
 - C++  
 - Python  
-- Java (Basic)
+- Java 
 
 ### 🌐 Web Development
 - HTML  
 - CSS  
-- JavaScript (Basic)
+- JavaScript 
 - React.js
 
 ### 🧠 Computer Science Fundamentals
