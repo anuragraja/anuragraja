@@ -1,71 +1,73 @@
-👋 Hi, I'm Anurag Rajak
+# 👋 Hi, I'm Anurag Rajak
 
-🎓 Information Technology (IT) Student  
+### Software Developer | AI & ML Enthusiast | Full-Stack Developer
+
+🎓 B.Tech in Information Technology  
 🏫 Bansal Institute of Science & Technology  
-💻 Aspiring Software Engineer | AI & ML Enthusiast  
+💻 Passionate about building real-world software solutions  
+🤖 Exploring Artificial Intelligence, Machine Learning & Modern Technologies
 
 ---
 
 ## 🚀 About Me
-I am an Information Technology student with a strong interest in software development, problem solving, and emerging technologies. I enjoy building projects, learning new tools, and continuously improving my technical skills.
 
----
+I'm an Information Technology undergraduate passionate about software engineering, problem-solving, and building technology-driven solutions.
+
+I enjoy transforming ideas into practical applications, exploring modern technologies, and developing projects that solve real-world problems.
+
+- 🔭 Working on full-stack and AI-powered applications.
+- 🌱 Learning Data Structures & Algorithms and Advanced Software Development.
+- 🤖 Exploring AI Agents, Generative AI, and Cloud Computing.
+- 🏆 2× Hackathon Winner.
+- 🎯 Focused on becoming a skilled Software Engineer.
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-- C  
-- C++  
-- Python  
-- Java 
+**Programming Languages**
+- C, C++, Python, Java, JavaScript
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript 
-- React.js
+**Frontend Development**
+- HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
 
-### 🧠 Computer Science Fundamentals
-- Data Structures & Algorithms (Basic)
-- Object-Oriented Programming (OOPs)
-- Database Management System (DBMS)
-- Operating Systems (OS)
-- Computer Networks (CN)
+**Backend Development**
+- Node.js, Express.js, REST APIs, JWT, Socket.io
 
-### 🤖 Artificial Intelligence & Data
-- Basics of Artificial Intelligence
-- Machine Learning Fundamentals
-- Data Analysis (Basic)
-- NumPy & Pandas (Basic)
+**Databases**
+- MongoDB, MySQL, Redis
 
-### 🧰 Tools & Technologies
-- Git & GitHub
-- VS Code
-- Command Line (Basic)
-- Windows OS
+**AI & Machine Learning**
+- Generative AI, LangChain, AI Agents, Google Gemini
 
----
+**Cloud & DevOps**
+- AWS, Google Cloud, Docker, Git, GitHub, Vercel
 
-## 📌 Projects
-- Student Management System (Python)
-- Basic Console Applications
-- Academic Mini Projects
+**Tools & Technologies**
+- VS Code, Postman, n8n, Linux
 
----
+## 🏆 Achievements & Certifications
 
-## 🌱 Currently Learning
-- Advanced Python
-- Data Structures & Algorithms
-- Machine Learning
-- Software Development Best Practices
+- 🥇 Two-Time Hackathon Winner
+- ☁️ AWS Cloud Certification
+- 📜 C++ Essentials 1 – Cisco
+- 📜 IBM Cloud Computing Certification
 
----
+## 💡 What I Love Building
 
-## 📫 Contact Me
-- 📧 Email: your-anuragrajak7974@gmail.com  
-- 🔗 GitHub: https://github.com/anuragrajak  
+- Full-Stack Web Applications
+- AI-Powered Applications & Intelligent Agents
+- Automation Tools & Workflows
+- Real-World Problem-Solving Projects
+
+## 📊 GitHub Contributions
+
+I believe in learning by building, contributing consistently, and improving my engineering skills every day.
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, exploring new technologies, and connecting with fellow developers.
+
+**GitHub:** [@anuragraja](https://github.com/anuragraja)
 
 ---
 
-⚡ **Fun Fact:**  
-I believe consistency and practice are the keys to becoming a great software engineer 🚀
+⭐ *Building. Learning. Innovating. Repeating.*
